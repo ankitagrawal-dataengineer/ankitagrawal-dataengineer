@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ankit Agrawal</h1>
-<h3 align="center">Senior Data Engineer | Spark | Databricks | Airflow | Azure | GCP | Python | SQL</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Ankit Agrawal</h1>
+  <h3>Senior Data Engineer</h3>
+  <p><em>Turning raw data into reliable pipelines, trusted analytics, and business-ready insights.</em></p>
 
-<p align="center">
-  <a href="mailto:jindalankit321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jindalankit321@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" alt="Email" width="36" height="36" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ankitagrawal-data-engineer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="36" height="36" />
   </a>
-</p>
+</div>
+
+<br />
 
 <img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Coding animation" />
 
