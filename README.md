@@ -20,7 +20,7 @@
 
 - 🔭 I work as a **Senior Data Engineer at Egen Data Pvt. Ltd.**
 - 💼 I have **5+ years of experience** building data pipelines, ETL/ELT workflows, and analytics-ready datasets.
-- 🧰 My core stack includes **Spark, PySpark, Databricks, Airflow, Python, SQL, BigQuery, Snowflake, Azure, and GCP**.
+- 🧰 My core stack includes **Spark, PySpark, Databricks, Airflow, Python, SQL, BigQuery, Snowflake, GCP, and Azure**.
 - ☁️ I work with **Azure Data Factory, Synapse Pipelines, Azure Synapse Analytics, Google Cloud Dataflow, Cloud Composer, Cloud Storage, Data Lake, and Data Warehousing**.
 - 🛠️ I also work with **JDBC ingestion, bronze/silver DDLs, API/HL7/FHIR mappings, data modeling, data quality, validation, reconciliation, metadata controls, CI/CD, and GitHub workflows**.
 - 🔎 Earlier in my career, I worked with **Talend, Unix/Linux shell scripting, pandas, Django, MongoDB, Elasticsearch, Logstash, Kibana, Filebeat, and ELK-based monitoring**.
